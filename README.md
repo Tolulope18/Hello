@@ -3,5 +3,5 @@ Tolulope is enthusiastic about anything related to Data, fits in roles as a Data
 
 Currently learning C to have deeper knowledge of programming and I also aim to develop my technical writing skillset for proper documentation of projects.
 👯 I’m looking to collaborate on projects or any Data roles (remotely or hybrid) via
-#Skills: Tools and Frameworks
-python
+# Skills: Tools and Frameworks
+# Python
